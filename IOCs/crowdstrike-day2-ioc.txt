@@ -17,9 +17,6 @@ crowdstrikeclaim[.]com
 crowdstrike-falcon[.]online
 crowdstrike[.]black
 crowdstrikefix[.]com
-crowdstrik[.]e-helpdesk.com
-crowdstrike[.]outage.info
-crowdstrikeou[.]tage.info
 iscrowdstrikedown[.]com
 crowdstrikedown[.]com
 crowdstrike-bluescreen[.]com
@@ -51,13 +48,6 @@ crowdstrikerescue[.]org
 crowdstrikesucks[.]com
 crowdstrikesupport[.]com
 crowdstrikesupport[.]info
-crowdstrik[.]e-falcon.com
-crowdstrike-falc[.]on.com
-crowdstrike-fa[.]lcon.site
-crowdstrike[.]outage.com
-crowdstrikeo[.]utage.com
-crowdstrike-b[.]sod.com
-crowdstrik[.]e-fix.com
 crowdstrike-helpdesk[.]com
 crowdstrike0day[.]com
 crowdstrikebluescreen[.]com
@@ -169,8 +159,6 @@ crowdstrike[.]fail
 crowdstrike[.]help
 crowdstrikedown[.]site
 crowdstrikeoutage[.]info
-crowdstr[.]ike.blue
-crowd[.]strike.blue
 crowdstrike-bsod[.]co
 crowdstrike-bsod[.]com
 crowdstrike[.]es
